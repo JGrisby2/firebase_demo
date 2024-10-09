@@ -51,7 +51,7 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions android = FirebaseOptions(
     apiKey: 'AIzaSyCi9fVoeB8WgXsRIchplSK8lUA45898AwM',
-    appId: '1:312020372463:android:54513fc9ad1307f420841a',
+    appId: '1:312020372463:android:a26b661616876bfc20841a',
     messagingSenderId: '312020372463',
     projectId: 'fir-flutter-codelab-6a206',
     storageBucket: 'fir-flutter-codelab-6a206.appspot.com',
@@ -83,4 +83,5 @@ class DefaultFirebaseOptions {
     authDomain: 'fir-flutter-codelab-6a206.firebaseapp.com',
     storageBucket: 'fir-flutter-codelab-6a206.appspot.com',
   );
+
 }
